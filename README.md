@@ -1,2 +1,2 @@
-# CSGO-Crosshair-Colour-Changer
-CS:GO Crosshair Changer
+# CSGO Crosshair Colour Changer
+Will randomly change the colour of your crosshair in csgo
